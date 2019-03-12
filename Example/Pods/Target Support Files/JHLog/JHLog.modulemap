@@ -1,0 +1,6 @@
+framework module JHLog {
+  umbrella header "JHLog-umbrella.h"
+
+  export *
+  module * { export * }
+}
