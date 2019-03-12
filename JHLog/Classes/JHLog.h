@@ -13,6 +13,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)log;
 
++ (void)testFunc;
+
 @end
 
 NS_ASSUME_NONNULL_END

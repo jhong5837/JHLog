@@ -1,6 +1,6 @@
 {
   "name": "JHLog",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "jhlog",
   "description": "测试的log文件",
   "homepage": "https://github.com/jhong5837/JHLog",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/jhong5837/JHLog.git",
-    "tag": "0.0.1"
+    "tag": "0.0.2"
   },
   "platforms": {
     "ios": "8.0"

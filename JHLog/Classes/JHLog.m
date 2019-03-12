@@ -13,4 +13,8 @@
     NSLog(@"我自定义的日志库");
 }
 
++ (void)testFunc {
+    NSLog(@"测试函数");
+}
+
 @end

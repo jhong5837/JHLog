@@ -19,6 +19,7 @@
 {
     [super viewDidLoad];
     [JHLog log];
+    [JHLog testFunc];
 }
 
 @end
